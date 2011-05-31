@@ -1,0 +1,12 @@
+The contents of this git repository are for the IGN Code-Foo Challenge
+and are organized as such:
+
+README			-- This file.
+Bio.txt  		-- Brief bio and work history.
+GoldenPennies.doc 	-- Question 1.
+AspectOfTheHawk.doc     -- Question 2.
+KnightMoves/		-- Netbeans project for Question 3.
+KnightMoves/src		-- Source code for Question 3.
+4Fire.mov		-- Video Submission for Question 4.
+
+Enjoy!
